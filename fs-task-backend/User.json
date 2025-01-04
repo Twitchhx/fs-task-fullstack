@@ -1,0 +1,41 @@
+{
+  "data": {
+    "user": {
+      "firstName": "John",
+      "fatherName": "Smith",
+      "grandfatherName": "Edward",
+      "familyName": "Willie",
+      "localizedName": {
+        "firstName": "جون",
+        "fatherName": "سميث",
+        "grandfatherName": "إدوارد",
+        "familyName": "ويلي"
+      },
+      "nationalId": {
+        "idNumber": "123456789",
+        "expiryDate": "2025-12-31T00:00:00Z"
+      },
+      "nationalities": [
+        {
+          "country": {
+            "id": "10",
+            "name": "USA"
+          },
+          "countryId": 1016
+        },
+        {
+          "country": {
+            "id": "11",
+            "name": "UK"
+          },
+          "countryId": 1117
+        }
+      ],
+      "maritalStatus": {
+        "id": "1",
+        "name": "Married"
+      },
+      "dependants": 3
+    }
+  }
+}
